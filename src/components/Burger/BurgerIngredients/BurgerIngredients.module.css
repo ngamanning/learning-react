@@ -1,0 +1,48 @@
+.BreadBottom {
+    height: 13%;
+    width: 80%;
+    background: linear-gradient(hsl(39, 46%, 55%), hsla(39, 88%, 53%, 0.733)) ;
+    border-radius: 0 0 30px 30px;
+    box-shadow: inset -15px #c15711;
+    margin: 2% auto;
+}
+.BreadTop {
+    height: 20%;
+    width: 80%;
+    background: linear-gradient(hsl(39, 46%, 55%), hsla(39, 88%, 53%, 0.733)) ;
+    border-radius: 50% 50% 0 0;
+    box-shadow: inset -15px #c15711;
+    margin: 2% auto;
+}
+.Meat {
+    height: 4%;
+    width: 80%;
+    background: linear-gradient(hsl(34, 92%, 42%), hsla(34, 97%, 44%, 0.733)) ;
+    border-radius: 0 0 30px 30px;
+    box-shadow: inset -15px #7a380b;
+    margin: 1% auto;
+}
+.Cheese {
+    height: 1%;
+    width: 80%;
+    background: linear-gradient(hsl(39, 24%, 63%), hsla(42, 9%, 79%, 0.733)) ;
+    border-radius: 0 0 30px 30px;
+    box-shadow: inset -15px #7a380b;
+    margin: 1% auto;
+}
+.Vegetables {
+    height: 4%;
+    width: 80%;
+    background: linear-gradient(hsl(117, 24%, 63%), hsla(113, 78%, 41%, 0.733)) ;
+    border-radius: 0 0 30px 30px;
+    box-shadow: inset -15px #12cc59;
+    margin: 1% auto;
+}
+.Bacon {
+    height: 1%;
+    width: 80%;
+    background: linear-gradient(hsl(34, 93%, 5%), hsla(31, 74%, 6%, 0.733)) ;
+    border-radius: 0 0 30px 30px;
+    box-shadow: inset -15px #2e2605;
+    margin: 1% auto;
+}
