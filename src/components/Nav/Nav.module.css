@@ -1,0 +1,14 @@
+Nav ul {
+   display:  flex;
+   font-size: 18px;
+   text-transform: uppercase;
+}
+Nav li {
+    color: #fff;
+    text-decoration: none;
+    padding: 10px;
+    margin: 0 10px;
+    border-bottom: 2px solid transparent;
+    transition: all 0.3s ease-in-out;
+    font-weight: bold;
+}
